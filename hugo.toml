@@ -1,0 +1,6 @@
+baseURL = "https://github.com/nievchris/blog"
+languageCode = "en-us"
+
+title = "EventPlanner Pro Blog"
+author = "Chris Nieves"
+theme = "contrast-hugo"
